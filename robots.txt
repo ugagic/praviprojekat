@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow:
+
+sitemap : https://ugagic.github.io/praviprojekat/sitemap.xml
